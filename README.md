@@ -61,24 +61,6 @@ Instead of treating AI as a black-box field, this repository focuses on understa
 
 ---
 
-## Repository Structure
-
-```bash
-ai-engineering-notes/
-
-├── machine-learning/
-├── deep-learning/
-├── transformers/
-├── computer-vision/
-├── nlp/
-├── deployment/
-├── research-implementations/
-├── notebooks/
-└── experiment-logs/
-```
-
----
-
 ## Current Focus Areas
 
 - Transformer Architecture Implementation
